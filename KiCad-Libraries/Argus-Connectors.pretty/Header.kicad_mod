@@ -1,0 +1,114 @@
+(footprint "Header"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.7178 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a7fb48fa-1741-42da-baec-c94e03d10e8b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Header"
+		(at 0 6.2978 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "32e296df-a131-4314-9b79-e34b227bdaac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d34fd174-fa7e-4e79-8b46-ddc16a2d2b27")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "47f664c3-757d-49ff-863b-bedbc5b12d39")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -5.588 -1.778)
+		(end 5.588 5.334)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "5b27423e-6564-4c39-84bd-e8a8c38434fc")
+	)
+	(fp_circle
+		(center -8.001 0)
+		(end -6.876 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "3410368a-341a-487f-9d43-704a33f10e78")
+	)
+	(fp_circle
+		(center 8.001 0)
+		(end 9.126 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "b561b12d-c099-4568-a921-ee92d19ec934")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 7.7978 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "fed134f9-55e7-44dc-bec4-b2e4aa4ea1ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "/Users/neilkhera/Documents/Argus2/Avionics-Hardware/KiCad-Libraries/3D Models/Header.step"
+		(offset
+			(xyz -137.4 81.25 -3.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,230 @@
+(footprint "ANT_CGGBP.18.4.A.02_TAL"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "CGGBP.18.4.A.02 ")
+	(property "Reference" "REF**"
+		(at 0 -1.7018 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "59aa2b59-1848-4a58-8601-2bdece50636f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ANT_CGGBP.18.4.A.02_TAL"
+		(at 0 11.4046 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "92d316f9-f06a-4d0c-a401-ab05aa3a19cd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 1.905 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd1653aa-a602-45ae-9afe-0c984b8ee5bd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 1.905 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8755b230-2f45-4707-8244-4513d79b5883")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 1.905 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23b5c579-1756-471f-a055-7561136892db")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -9.271 -9.165999)
+		(end -9.271 9.376001)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c89a8a96-a27d-42bf-989a-e883bd579883")
+	)
+	(fp_line
+		(start -9.271 9.376001)
+		(end 9.271 9.376001)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "978bc46f-1411-4f6c-af58-f226e4549608")
+	)
+	(fp_line
+		(start 9.271 -9.165999)
+		(end -9.271 -9.165999)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f85dafa3-316b-465e-ac41-7086eb56ab0e")
+	)
+	(fp_line
+		(start 9.271 9.376001)
+		(end 9.271 -9.165999)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "afddd7c3-d02a-4369-a06c-9774bbb75e13")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.381 0)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "a82877b4-22c1-40de-8baf-1ae6b7a8725e")
+	)
+	(fp_line
+		(start -9.398 -9.292999)
+		(end -9.398 9.503001)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8ab874ca-0726-486e-8575-b2c85b5e2626")
+	)
+	(fp_line
+		(start -9.398 9.503001)
+		(end 9.398 9.503001)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "989ea46b-32b8-41fd-be34-3053fd1dff71")
+	)
+	(fp_line
+		(start 9.398 -9.292999)
+		(end -9.398 -9.292999)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2b8be2af-b800-4682-8524-e540dc4ea65c")
+	)
+	(fp_line
+		(start 9.398 9.503001)
+		(end 9.398 -9.292999)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "99fc4ab3-172b-46dd-84eb-bdaa4f99239e")
+	)
+	(fp_line
+		(start -9.144 -9.038999)
+		(end -9.144 9.249001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9e8403a4-4396-499e-a4f5-e1e8bedd3df4")
+	)
+	(fp_line
+		(start -9.144 9.249001)
+		(end 9.144 9.249001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "62491ef1-a802-4524-9dd7-43d0630052c1")
+	)
+	(fp_line
+		(start 9.144 -9.038999)
+		(end -9.144 -9.038999)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "024c6c45-5c09-4863-9893-eaad7a1a1588")
+	)
+	(fp_line
+		(start 9.144 9.249001)
+		(end 9.144 -9.038999)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db24add1-7f3c-47e7-ba73-16116a2f8787")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 13.7922 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9e01eb62-e6eb-4fbe-8a64-0744156ec0b6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 1.905)
+		(size 1.7272 1.7272)
+		(drill 1.2192)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1a6158fa-0417-4a42-bde6-7348c27e0c77")
+	)
+	(model "${KIPRJMOD}/../KiCad-Libraries/3D Models/CGGBP.18.4.A.02--3DModel-STEP-510211.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

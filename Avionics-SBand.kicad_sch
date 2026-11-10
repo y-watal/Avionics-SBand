@@ -1,0 +1,452 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "562ea642-74cf-4e41-b1fe-d4b3346dd3bd")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 88.9 68.58) (xy 132.08 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4009b3a6-2822-427e-b877-1574fd1445fc")
+	)
+	(wire
+		(pts
+			(xy 88.9 78.74) (xy 132.08 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "442a4079-0e2c-4b52-88a2-df8f48a2ee84")
+	)
+	(wire
+		(pts
+			(xy 88.9 91.44) (xy 198.12 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cc3710a-d83b-4086-ac86-569919040326")
+	)
+	(wire
+		(pts
+			(xy 88.9 88.9) (xy 198.12 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e6a2dff-d9cd-42ce-980b-d4dca0e3e03e")
+	)
+	(wire
+		(pts
+			(xy 162.56 71.12) (xy 198.12 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "737a675d-7d23-43b2-9b35-c84959379380")
+	)
+	(wire
+		(pts
+			(xy 88.9 81.28) (xy 132.08 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a748283b-b3c0-49e2-bfb0-8c718b807ebb")
+	)
+	(wire
+		(pts
+			(xy 88.9 73.66) (xy 132.08 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0c83985-5a5a-4c68-92da-0657fbc3bb48")
+	)
+	(wire
+		(pts
+			(xy 88.9 71.12) (xy 132.08 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c56a4da9-e8a4-48a1-9755-fb6e717e7c17")
+	)
+	(wire
+		(pts
+			(xy 88.9 76.2) (xy 132.08 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1b787bc-ab7d-42a9-8186-4e258fb5dbe7")
+	)
+	(wire
+		(pts
+			(xy 88.9 83.82) (xy 132.08 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f96adc54-632f-4b61-8d68-25cb29caa289")
+	)
+	(sheet
+		(at 58.42 66.04)
+		(size 30.48 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7067e37d-febf-4c4c-a4ba-5deceb0eedbf")
+		(property "Sheetname" "Connectors"
+			(at 58.42 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connectors.kicad_sch"
+			(at 58.42 97.1046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SPI_CS" output
+			(at 88.9 68.58 0)
+			(uuid "84adcfda-d44b-445a-8abd-ea64fd6b57c1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_SCK" output
+			(at 88.9 71.12 0)
+			(uuid "07ab7edc-d421-4157-a68f-b17c725ea065")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MOSI" output
+			(at 88.9 73.66 0)
+			(uuid "bf6b4254-8d29-45d6-9250-4342270019e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MISO" input
+			(at 88.9 76.2 0)
+			(uuid "fd8abb21-c689-4172-9e0c-66dff6103d0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUSY" input
+			(at 88.9 78.74 0)
+			(uuid "d6e18487-5a49-4a7b-be96-57d94e18ee94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIO1" input
+			(at 88.9 81.28 0)
+			(uuid "fd18f512-e09d-4c78-91d3-3c99078f6578")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "NRESET" output
+			(at 88.9 83.82 0)
+			(uuid "0a322627-6b91-47c4-a865-3a5344f3938b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PA_EN" output
+			(at 88.9 88.9 0)
+			(uuid "9df9957a-cedc-414f-b0c9-282c016e4faf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "PA_DET" input
+			(at 88.9 91.44 0)
+			(uuid "366421b7-513b-4917-91a3-25636ed0ec82")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Avionics-SBand"
+				(path "/562ea642-74cf-4e41-b1fe-d4b3346dd3bd"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 198.12 66.04)
+		(size 30.48 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8cfa9094-35d1-4982-a5bc-78de646ade93")
+		(property "Sheetname" "PA_to_Antenna"
+			(at 198.12 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PA_to_Antenna.kicad_sch"
+			(at 198.12 97.1046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "PA_RF_IN" input
+			(at 198.12 71.12 180)
+			(uuid "d1ff554c-c57c-4259-b9f2-9a15f4fb7d92")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PA_EN" input
+			(at 198.12 88.9 180)
+			(uuid "3f0b1a70-2903-491c-bf89-b207374953a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PA_DET" output
+			(at 198.12 91.44 180)
+			(uuid "77dcd031-bed8-4d2a-8d76-d74ce3800fac")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Avionics-SBand"
+				(path "/562ea642-74cf-4e41-b1fe-d4b3346dd3bd"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 132.08 66.04)
+		(size 30.48 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "fed7752d-e646-4eab-8d98-b3a202b8ca01")
+		(property "Sheetname" "SX1280"
+			(at 132.08 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "SX1280.kicad_sch"
+			(at 132.08 86.9446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SPI_CS" input
+			(at 132.08 68.58 180)
+			(uuid "f1ab9b61-59f6-4343-8e29-6e999f1e7fa8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_SCK" input
+			(at 132.08 71.12 180)
+			(uuid "7801b03f-d043-48ae-92e8-f0b2b147d4b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_MOSI" input
+			(at 132.08 73.66 180)
+			(uuid "05aca014-00a8-47df-9356-899e5af6c206")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI_MISO" output
+			(at 132.08 76.2 180)
+			(uuid "0c62cfe1-7126-45de-b93a-a9ac2ac296e3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BUSY" output
+			(at 132.08 78.74 180)
+			(uuid "e210374f-7f0b-4034-a1da-5a95f52889fa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DIO1" output
+			(at 132.08 81.28 180)
+			(uuid "1c7d6a12-f7c2-45c4-9a99-b7702bfb6ee9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "NRESET" input
+			(at 132.08 83.82 180)
+			(uuid "a0506f8b-4393-4f7b-b9f0-552cf1e0cd93")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "PA_RF_IN" output
+			(at 162.56 71.12 0)
+			(uuid "8c234974-98c1-405a-95e3-bcaf0eaf8803")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "Avionics-SBand"
+				(path "/562ea642-74cf-4e41-b1fe-d4b3346dd3bd"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

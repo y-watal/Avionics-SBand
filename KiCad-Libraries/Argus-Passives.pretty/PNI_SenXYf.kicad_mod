@@ -1,0 +1,11 @@
+(footprint "PNI_SenXYf"
+  (layer "F.Cu")
+  (tedit 6a544f8a)
+  (descr "PNI Sen-XY-f magneto-inductive sensor (pn 13104), 2-pad. Pad 1.40x1.70mm, pitch 5.30mm, per RM3100/RM2100 User Manual Fig 3-3. Solder paste margin approximated as a uniform 0.40mm reduction (datasheet paste target is an asymmetric 0.60x1.20mm rectangle -- 0.40mm/side in X, 0.25mm/side in Y -- draw a custom F.Paste polygon if exact paste geometry is required).")
+  (tags "PNI RM3100 magneto-inductive sensor")
+  (property "Datasheet" "PNI Sensor RM3100/RM2100 User Manual, Doc 1017252 V15.0, Figure 3-3")
+  (pad "1" smd rect (at -2.65 0) (size 1.4 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.125) (solder_paste_margin -0.4))
+  (pad "2" smd rect (at 2.65 0) (size 1.4 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
+    (solder_mask_margin 0.125) (solder_paste_margin -0.4))
+)

@@ -1,0 +1,77 @@
+(footprint "Antenna Mount v3"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6e3b1565-0949-4817-bed8-3516777beeaf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Antenna Mount v3"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88c63402-0bd9-4215-bccc-9905cd3c3dde")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e28cdc63-0e02-4755-96fb-c1ef96360ebf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cfecb756-5855-4daf-8ccd-fddbfdf6fc8a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start 3.3 -5.5)
+		(end 18.3 5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "ed92ae57-4b85-4e81-898b-e554a3772323")
+	)
+	(pad "1" smd rect
+		(at 0 0)
+		(size 2 7.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "224c92e0-565f-4121-ad99-7249815b0988")
+	)
+	(embedded_fonts no)
+)

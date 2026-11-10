@@ -1,0 +1,12 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SX1280") (type "KiCad") (uri "${KIPRJMOD}/Library/ul_SX1280IMLTRT/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "SE2604L") (type "KiCad") (uri "${KIPRJMOD}/Library/TQFN-16_L3_0-W3_0-P0_50-TL-EP1_7_SE2604L-R_C2654184 (1)/SE2604L.pretty") (options "") (descr ""))
+	(lib (name "SKY65900-11") (type "KiCad") (uri "${KIPRJMOD}/Library/SKY65900-11/SKY65900-11.pretty") (options "") (descr ""))
+	(lib (name "LTC3115EDHD") (type "KiCad") (uri "${KIPRJMOD}/Library/LTC3115EDHD/LTC3115EDHD.pretty") (options "") (descr ""))
+	(lib (name "Argus-Connectors") (type "KiCad") (uri "${KIPRJMOD}/KiCad-Libraries/Argus-Connectors.pretty") (options "") (descr ""))
+	(lib (name "Argus-IC") (type "KiCad") (uri "${KIPRJMOD}/KiCad-Libraries/Argus-IC.pretty") (options "") (descr ""))
+	(lib (name "Argus-Miscellaneous") (type "KiCad") (uri "${KIPRJMOD}/KiCad-Libraries/Argus-Miscellaneous.pretty") (options "") (descr ""))
+	(lib (name "Argus-Passives") (type "KiCad") (uri "${KIPRJMOD}/KiCad-Libraries/Argus-Passives.pretty") (options "") (descr ""))
+	(lib (name "Argus_RW_Library") (type "KiCad") (uri "${KIPRJMOD}/Library/Argus_RW_Library/Argus_RW_Library.pretty") (options "") (descr ""))
+)

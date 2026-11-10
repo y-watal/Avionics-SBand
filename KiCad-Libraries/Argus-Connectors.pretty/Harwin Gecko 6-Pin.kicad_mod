@@ -1,0 +1,273 @@
+(footprint "Harwin Gecko 6-Pin"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.5212 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1a50cf77-9dd1-464c-aa80-e86d76c1ff67")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Harwin Gecko 6-Pin"
+		(at 0 4.2672 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "df549d04-c2ef-4eb9-880b-1ac0502e9040")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a1141b3-9be6-4b23-8e35-772b64fd2742")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61a4b6f4-bdc8-4043-8ae2-d9b96c918aef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.15483 -2.6)
+		(end -2.39483 -2.6)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4b0490f9-60be-4ffb-9b90-f18078440545")
+	)
+	(fp_line
+		(start -5.15483 2.6)
+		(end -2.39483 2.6)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dfccb034-6df7-4702-85f7-0e6b88c65872")
+	)
+	(fp_line
+		(start -0.62703 3.332232)
+		(end 0.610478 3.332232)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3104bb82-713f-454b-b900-65a17b2fe68d")
+	)
+	(fp_line
+		(start -0.617413 -3.332234)
+		(end 0.617413 -3.332234)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3065de76-9e7b-4e32-a242-42f3fb8c73a8")
+	)
+	(fp_line
+		(start 5.14517 -2.600001)
+		(end 2.38517 -2.600001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b287fda5-ab9e-4ad6-9f4a-7dcb38723fb4")
+	)
+	(fp_line
+		(start 5.14517 2.6)
+		(end 2.385169 2.6)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "396b601f-dc79-421c-8e6b-25d471a167c8")
+	)
+	(fp_arc
+		(start -5.15483 2.6)
+		(mid -7.75483 0)
+		(end -5.15483 -2.6)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c6353538-915b-4596-acb7-19d62769f082")
+	)
+	(fp_arc
+		(start -2.39483 2.6)
+		(mid -1.916477 2.695151)
+		(end -1.510948 2.966116)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dd52af70-0fc4-4c51-9c8b-7a1620159dde")
+	)
+	(fp_arc
+		(start -1.510947 -2.966118)
+		(mid -1.105418 -3.237084)
+		(end -0.627064 -3.332234)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3157a900-9bef-4de7-9d76-54804f3c9bce")
+	)
+	(fp_arc
+		(start -1.510947 -2.966117)
+		(mid -1.916476 -2.695151)
+		(end -2.39483 -2.600001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a0f0bd5f-12e8-444a-8993-911c7b450d47")
+	)
+	(fp_arc
+		(start -0.627065 3.332233)
+		(mid -1.105419 3.237083)
+		(end -1.510948 2.966116)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "80b8f568-7adc-4165-a82f-99ee2ebbc885")
+	)
+	(fp_arc
+		(start 0.617413 -3.332234)
+		(mid 1.095767 -3.237084)
+		(end 1.501296 -2.966117)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "45b74c8c-f5ff-43c3-8a49-589f96e64ae7")
+	)
+	(fp_arc
+		(start 1.501286 2.966116)
+		(mid 1.095757 3.237082)
+		(end 0.617403 3.332232)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "3acc7e69-cf33-4b85-a925-dbfe890bb8ac")
+	)
+	(fp_arc
+		(start 1.501286 2.966116)
+		(mid 1.906815 2.69515)
+		(end 2.385169 2.6)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "87e25813-cb96-46cd-b297-fe91c88f04ab")
+	)
+	(fp_arc
+		(start 2.38517 -2.600001)
+		(mid 1.906816 -2.695152)
+		(end 1.501287 -2.966117)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "553597e1-19c6-499e-bd54-68ce4b1e5ac4")
+	)
+	(fp_arc
+		(start 5.14517 -2.600001)
+		(mid 7.745171 0)
+		(end 5.14517 2.600001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "32b9195c-8822-4580-9f4e-123dc5dd130d")
+	)
+	(fp_circle
+		(center -10.15483 0)
+		(end -8.90483 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "02fcbf16-629f-49bd-b987-3040b58356cc")
+	)
+	(fp_circle
+		(center 10.14517 0)
+		(end 11.39517 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "4e1d67bd-020c-4590-994f-f2658c34af02")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 5.7672 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2645d96f-e1d0-4be7-ad27-540b9ac7c16d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "/Users/neilkhera/Documents/Argus2/Avionics-Hardware/KiCad-Libraries/3D Models/G125-2240696F5_asm.stp"
+		(offset
+			(xyz -10.795 3.175 1.175)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 -0)
+		)
+	)
+)

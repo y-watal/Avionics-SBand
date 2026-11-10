@@ -1,0 +1,98 @@
+(footprint "Burn-Wire"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "JP4"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "93040659-f5ad-477b-a352-278cca1c30f4")
+		(effects
+			(font
+				(size 0.762 0.762)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" "BurnWire"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "2b9fd11d-f207-4026-8fad-7dea2292d676")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Argus-Miscellaneous:Burn-Wire"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "519cf88c-20ae-458d-8d25-bb44f5a138a8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60a8576d-ef12-42ea-bcbd-1f01430c223c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f663272a-0600-4f86-9281-6dcf37fce102")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "1" thru_hole circle
+		(at 0 -3.9)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a71301c4-c438-4b90-b9d8-3195671a89fb")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -2.5)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "764c2e90-61c8-44cd-a3d2-535291e4603b")
+	)
+	(pad "2" thru_hole circle
+		(at 0 2.5)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a9c15c32-33c0-4ae3-98af-6c465f5b62c8")
+	)
+	(pad "2" thru_hole circle
+		(at 0 3.9)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "805f1446-9395-409d-990d-2ea098b9cc04")
+	)
+)

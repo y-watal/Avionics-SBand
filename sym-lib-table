@@ -1,0 +1,12 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SX1280") (type "KiCad") (uri "${KIPRJMOD}/Library/ul_SX1280IMLTRT/KiCADv6/2026-10-14_20-13-57.kicad_sym") (options "") (descr ""))
+	(lib (name "SE2640L") (type "KiCad") (uri "${KIPRJMOD}/Library/TQFN-16_L3_0-W3_0-P0_50-TL-EP1_7_SE2604L-R_C2654184 (1)/TQFN-16_L3_0-W3_0-P0_50-TL-EP1_7_SE2604L-R_C2654184.kicad_sym") (options "") (descr ""))
+	(lib (name "SKY65900-11") (type "KiCad") (uri "${KIPRJMOD}/Library/SKY65900-11/VQFN-16_L4_0-W4_0-P0_65-BL-EP2_4_SKY65900-11_C1870175.kicad_sym") (options "") (descr ""))
+	(lib (name "LTC3115EDHD") (type "KiCad") (uri "${KIPRJMOD}/Library/LTC3115EDHD/DFN-16_L5_0-W4_0-P0_50-BL-EP_LTC3115EDHD-1_PBF_C580688.kicad_sym") (options "") (descr ""))
+	(lib (name "Argus-Connectors") (type "KiCad") (uri "${KIPRJMOD}/KiCad-Libraries/Argus-Connectors.kicad_sym") (options "") (descr ""))
+	(lib (name "Argus-IC") (type "KiCad") (uri "${KIPRJMOD}/KiCad-Libraries/Argus-IC.kicad_sym") (options "") (descr ""))
+	(lib (name "Argus-Miscellaneous") (type "KiCad") (uri "${KIPRJMOD}/KiCad-Libraries/Argus-Miscellaneous.kicad_sym") (options "") (descr ""))
+	(lib (name "Argus-Passives") (type "KiCad") (uri "${KIPRJMOD}/KiCad-Libraries/Argus-Passives.kicad_sym") (options "") (descr ""))
+	(lib (name "Argus_RW_Library") (type "KiCad") (uri "${KIPRJMOD}/Library/Argus_RW_Library/Argus_RW_Library.kicad_sym") (options "") (descr ""))
+)

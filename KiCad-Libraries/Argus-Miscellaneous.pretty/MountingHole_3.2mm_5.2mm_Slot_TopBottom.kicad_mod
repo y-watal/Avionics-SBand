@@ -1,0 +1,112 @@
+(footprint "MountingHole_3.2mm_5.2mm_Slot_TopBottom"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 3.2mm, M3, DIN965")
+	(tags "mounting hole 3.2mm m3 din965")
+	(property "Reference" "H4"
+		(at 0 4.2672 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "046d5a08-587c-414f-bf76-7bc9dc29748d")
+		(effects
+			(font
+				(size 0.8001 0.8001)
+				(thickness 0.1016)
+			)
+		)
+	)
+	(property "Value" "MountingHole_Pad"
+		(at 0 3.8 0)
+		(layer "F.Fab")
+		(uuid "40462d4a-9990-41c7-9a60-3dac9cebbb66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "287d3f92-32c2-40db-ac9b-809366b85504")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Mounting Hole with connection"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "669d9f7f-1397-49cc-b1f7-4245fa681797")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 2.8 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "1c3aa963-01c7-4307-bcc8-b8bce8db9175")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3.05 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "69b20ae2-4618-43b9-ad20-35e38c3cfde9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "9129b020-ba3b-4abe-a23b-213a2e149c92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 0)
+		(size 3.6 5.6)
+		(drill oval 3.2 5.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8f9498ff-41e4-4beb-b8da-2ef57d2d7afb")
+	)
+	(pad "1" connect circle
+		(at 0 0)
+		(size 5.6 5.6)
+		(layers "F.Cu" "F.Mask")
+		(uuid "f66c7e6c-5a4f-41da-9696-fb016567434b")
+	)
+	(pad "1" connect circle
+		(at 0 0)
+		(size 5.6 5.6)
+		(layers "B.Cu" "B.Mask")
+		(uuid "ab72d874-6df6-47f9-bc34-a65ac2992522")
+	)
+	(embedded_fonts no)
+)

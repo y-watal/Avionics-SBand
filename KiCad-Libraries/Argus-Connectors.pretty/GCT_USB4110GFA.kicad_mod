@@ -1,0 +1,445 @@
+(footprint "GCT_USB4110GFA"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "J3"
+		(at -1.425 -3.135 180)
+		(layer "F.SilkS")
+		(uuid "89a7aaed-247d-4b7b-89b5-8fbf6654ef97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "USB4110GFA"
+		(at 4.29 7.265 180)
+		(layer "F.Fab")
+		(uuid "2efa8ea9-e8c9-4298-a67f-1bb52fcbe6cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Argus-Connectors:GCT_USB4110GFA"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf5ab2aa-8993-4c1c-9c7b-57ff4704bcaa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5b13dd2-bfd0-49cb-aed5-d3d9e3bc917d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6474328b-8bbc-4a18-92a6-5c02a04244a5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DigiKey_Part_Number" "2073-USB4110-GF-A-2-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c61e144-ee75-40af-8e82-f93c4dd6c097")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "GCT"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc0df669-6ef8-4eb0-ad1c-4d4b1c3762b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\n                        \n                            USB-C (USB TYPE-C) USB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle; Through Hole\n                        \n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0341f539-ab31-4224-9994-cf200ea9866e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35baf123-7e6a-4385-8679-65b512665841")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e3df036-63bc-4132-9bda-ce90fcc9dbcf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/USB4110-GF-A/Global+Connector+Technology/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ceaa4034-8aea-4425-ba63-847f3c23721f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "USB4110-GF-A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e882841f-456e-48b3-83d7-fb3bfb71094a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "800bceb9-82bc-4b5d-832e-5d9261a310a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/USB4110-GF-A/Global+Connector+Technology/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "43e5f08d-3a47-4720-9ab5-2a014279a7e5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -4.47 0.86)
+		(end -4.47 2.07)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3cc7e986-eda3-4d10-a03a-00d35de59247")
+	)
+	(fp_line
+		(start -4.47 4.79)
+		(end -4.47 6.28)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a662f85b-7521-4006-b716-bd73a72291fe")
+	)
+	(fp_line
+		(start -4.47 6.28)
+		(end 4.47 6.28)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79ddbec0-0804-44d6-bab1-a20f2a847ab4")
+	)
+	(fp_line
+		(start 4.47 0.86)
+		(end 4.47 2.07)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "569a33a3-b74d-46f9-9724-711647eb59f9")
+	)
+	(fp_line
+		(start 4.47 6.28)
+		(end 4.47 4.79)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "eeaff2d1-d8a3-4879-915c-5083781742e6")
+	)
+	(fp_circle
+		(center -3.78 -2.23)
+		(end -3.68 -2.23)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "1535c839-8c3b-4c31-bf58-7d3078adf5d7")
+	)
+	(fp_line
+		(start -6.45 -1.9)
+		(end 6.45 -1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "74c8a1c3-6259-41e9-9670-a458cff28128")
+	)
+	(fp_line
+		(start -6.45 6.53)
+		(end -6.45 -1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b64e6679-5281-411b-982a-06d65db81c86")
+	)
+	(fp_line
+		(start 6.45 -1.9)
+		(end 6.45 6.53)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "459c33ce-dba6-43cb-b988-87c2158cf67b")
+	)
+	(fp_line
+		(start 6.45 6.53)
+		(end -6.45 6.53)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "19990599-6297-4704-b3be-9868777decfb")
+	)
+	(fp_line
+		(start -4.47 -1.07)
+		(end -4.47 6.28)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fdaa2c8c-5878-4321-aa56-d58dd2c8c571")
+	)
+	(fp_line
+		(start -4.47 6.28)
+		(end 4.47 6.28)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "66de575f-7f56-4aa7-9145-ec60f0d131b4")
+	)
+	(fp_line
+		(start 4.47 -1.07)
+		(end -4.47 -1.07)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4dd31855-6673-48c9-9a65-6de1b0cae695")
+	)
+	(fp_line
+		(start 4.47 6.28)
+		(end 4.47 -1.07)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3cf05145-237a-4b93-92a2-559ed242c253")
+	)
+	(fp_circle
+		(center -3.78 -2.23)
+		(end -3.68 -2.23)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "ccbcc997-47d4-4501-82b9-1306db8bd56b")
+	)
+	(pad "A1/B12" smd rect
+		(at -3.2 -1.075)
+		(size 0.6 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "36dbbcd5-62e8-4e53-804e-758591530a71")
+	)
+	(pad "A4/B9" smd rect
+		(at -2.4 -1.075)
+		(size 0.6 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "760de3b7-bbfa-49b0-bcc0-9f6e561f3732")
+	)
+	(pad "A5" smd rect
+		(at -1.25 -1.075)
+		(size 0.3 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "891e7586-dfa2-40b2-906e-66402f45319c")
+	)
+	(pad "A6" smd rect
+		(at -0.25 -1.075)
+		(size 0.3 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fd7123f5-5c29-4c82-820b-a28e266e89d4")
+	)
+	(pad "A7" smd rect
+		(at 0.25 -1.075)
+		(size 0.3 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "571df781-248f-4643-9855-dbf1d39be36a")
+	)
+	(pad "A8" smd rect
+		(at 1.25 -1.075)
+		(size 0.3 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "184a28d9-bb23-4422-88c9-43910eac3b36")
+	)
+	(pad "B1/A12" smd rect
+		(at 3.2 -1.075)
+		(size 0.6 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "4d495507-79c4-4eb3-905c-5ffdf18be9a1")
+	)
+	(pad "B4/A9" smd rect
+		(at 2.4 -1.075)
+		(size 0.6 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "e452b73b-de15-4ce2-a323-9ec6164aad9f")
+	)
+	(pad "B5" smd rect
+		(at 1.75 -1.075)
+		(size 0.3 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0eadb651-ca59-4b7c-8473-ee39a8d22119")
+	)
+	(pad "B6" smd rect
+		(at 0.75 -1.075)
+		(size 0.3 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "502bf5d7-c288-4152-b9f2-34f3a0a53964")
+	)
+	(pad "B7" smd rect
+		(at -0.75 -1.075)
+		(size 0.3 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b4c65d62-8716-4493-9129-1f1b48dbe987")
+	)
+	(pad "B8" smd rect
+		(at -1.75 -1.075)
+		(size 0.3 1.15)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "f8f09c66-92c0-4f6a-b99e-1f8dcc680409")
+	)
+	(pad "S1" smd rect
+		(at -5.11 -0.5)
+		(size 2.18 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "993fcfd8-486f-4f3f-a71a-1cc2543a2b8a")
+	)
+	(pad "S2" smd rect
+		(at 5.11 -0.5)
+		(size 2.18 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "ba130a28-0ec2-467c-a53f-33c38a260984")
+	)
+	(pad "S3" smd rect
+		(at -5.11 3.43)
+		(size 2.18 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "50539d09-a39b-4f6e-a73d-de6f90be4edf")
+	)
+	(pad "S4" smd rect
+		(at 5.11 3.43)
+		(size 2.18 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "5a377f59-2723-4841-93cf-ad5a40aa1b78")
+	)
+	(model "${KIPRJMOD}/../KiCad-Libraries/3D Models/USB4110GFA.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

@@ -1,0 +1,151 @@
+(footprint "ATB2012"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "BA1"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d32b0897-9b0c-447c-a9d0-0d452c07d586")
+		(effects
+			(font
+				(size 0.381 0.381)
+				(thickness 0.0762)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "bae3f013-9532-44c4-85bb-f71d6d77b90a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe4b0c17-c514-45e4-8e6b-39a203134d6a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63915dee-7b14-4af8-8cf2-4b5c98572998")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7bd98a0-8f86-4858-a153-fd82d1fde207")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1 0)
+		(end -1 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8b86c36-3462-4d67-86a7-85b7f4845543")
+	)
+	(fp_line
+		(start -0.6 -0.8)
+		(end -1.4 -0.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0bf85152-5271-4029-8876-83cc104edee4")
+	)
+	(fp_line
+		(start -0.4 -0.6)
+		(end 0.4 -0.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a4b55d52-d450-4d0f-bef7-a11524a8634d")
+	)
+	(fp_line
+		(start 0.4 0.6)
+		(end -0.4 0.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "428aee7f-ce47-45f1-b559-f8bbb611ddf9")
+	)
+	(fp_line
+		(start 1 0)
+		(end 1 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5007ca5e-8fec-4622-a8d6-3215a01bbc8a")
+	)
+	(pad "1" smd rect
+		(at -0.975 -0.4)
+		(size 0.75 0.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8a01b26f-dd00-452d-bbf6-2e4284dbba8d")
+	)
+	(pad "2" smd rect
+		(at -0.975 0.4)
+		(size 0.75 0.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d24ac7fd-4cee-4717-b459-6f9c9907c7a9")
+	)
+	(pad "3" smd rect
+		(at 0.975 0.4)
+		(size 0.75 0.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "8e0e4e90-ce36-4850-bf92-3e478b1d1439")
+	)
+	(pad "4" smd rect
+		(at 0.975 -0.4)
+		(size 0.75 0.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "0c3072ca-d1c3-4c96-ae72-c34b960757f3")
+	)
+	(model "${KIPRJMOD}/../kicad-libs/3d/ATB2012-50011-T000.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
