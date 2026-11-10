@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# KiCad local history, settings, and temporary files
+.history/
+*.kicad_prl
+*-backups/
+_autosave-*
+~*.lck
+fp-info-cache
+*.bak
+
+# Generated reports and plots
+DRC.rpt
+ERC.rpt
+plots/
